@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#f5f5f5; color:#333; }
+.container { max-width:900px; margin:40px auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); }
+table { width:100%; border-collapse:collapse; margin-top:10px; }
+th, td { padding:8px; border:1px solid #ddd; text-align:left; }
+a.button { display:inline-block; padding:6px 10px; background:#007BFF; color:#fff; text-decoration:none; border-radius:4px; }
+form input, form textarea, form select { width:100%; padding:8px; margin:6px 0; box-sizing:border-box; }
+.actions a { margin-right:6px; }
